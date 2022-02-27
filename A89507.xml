@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Words of peace or, Dr. Mantons last sayings many of them taken from him on his death-bed, or observed on other remarkable occasions; tending very much to the edification of Christians.</title>
+            <author>Manton, Thomas, 1620-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89507</idno>
+            <idno type="STC">Wing M540</idno>
+            <idno type="STC">ESTC R229143</idno>
+            <idno type="EEBO-CITATION">45578391</idno>
+            <idno type="OCLC">ocm 45578391</idno>
+            <idno type="VID">172314</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172314)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2625:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Words of peace or, Dr. Mantons last sayings many of them taken from him on his death-bed, or observed on other remarkable occasions; tending very much to the edification of Christians.</title>
+                  <author>Manton, Thomas, 1620-1677.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.P. and T.H. for P. Brooksby, at the Golden Ball in West-Smithfield, near the Hospital-Gate.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance."</note>
+                  <note>Imperfect: cropped and torn with some loss of text.</note>
+                  <note>Reproduction of original in the Society of Antiquaries (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Manton, Thomas, 1620-1677 --  Quotations.</term>
+               <term>Aphorisms and apothegms.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:172314:1" rendition="simple:additions"/>
+            <head>WORDS OF PEACE
+OR,
+Dr. MANTONS LAST SAYINGS
+Many of them taken from him on his Death-Bed, or obſerved on other Remarkable Occaſions;
+Tending very much to the Edification of Chriſtians.</head>
+            <p>1. <hi>IN his Sickneſs, lying under great Pains, he
+was heard to uſe this expreſsion.</hi> Lord keep
+me from Diſhonouring Thy Name by
+impatiency; Bleſſed be God there is nothing
+of Hell in all this.</p>
+            <p>2. Reſtrain and Bridle your Paſſions in Re<g ref="char:EOLhyphen"/>ligious
+matters, and never contend about
+Punctilio's.</p>
+            <p>3. The latter days will be hard times, and yet
+happy times, miſerable in the beginning,
+but glorious in the Iſſue, for 'tis the Courſe of
+Divine Diſperſations after the greateſt Di<g ref="char:EOLhyphen"/>ſtractions
+to <hi>bring forth</hi> the greateſt harmony.</p>
+            <p>4. He who Countenances a Fault, is more
+Guilty than he that Commits it; for there may
+be frailty in the one, but you cannot excuſe the
+other from Malice.</p>
+            <p>5. Be ever more tender of your Conſcience
+then of your Reputation.</p>
+            <p>6. When the Fleſh is too much made of,
+the Soul loſes it vigour; and he that is addict<g ref="char:EOLhyphen"/>ed
+to delights, rarely has a Noble Generous
+and true Chriſtian mind.</p>
+            <p>7. Bride is nothing but a Pompuous Excre<g ref="char:EOLhyphen"/>ſcency
+of Folly.</p>
+            <p>8. Provided that people agree in Religi<g ref="char:EOLhyphen"/>ous
+principles, let them never be like the <hi>Bulls
+of Baſhan,</hi> Goring and Wounding each other.</p>
+            <p>9. When a people begin to Innovate, 'tis
+an hard matter to keep them within the
+bounds of any Moderation.</p>
+            <p>10. Men of <hi>Lucians</hi> temper, by jeſting a<g ref="char:EOLhyphen"/>gainſt
+received Rites, inſenſibly loſe all ſenſe
+and awe of Religion, and by Scoffing at Falſe
+Gods, come the leſs to Dread the True.</p>
+            <p>11. They are Guilty of a ſtrange Unfaith<g ref="char:EOLhyphen"/>fulneſs,
+in point of Stewardſhip towards God,
+who do not imploy their Superfluities in the
+Relief of the Poor and Miſerable.</p>
+            <p>12. A <hi>good man</hi> may be Innocently reveng'd
+of his Enemies, by perſiſting in well-doing,
+and a bad man by reforming his life.</p>
+            <p>13. Pride is a vice inſupportable in the rich,
+but abſolutely abominable in the poor, it ren<g ref="char:EOLhyphen"/>ders
+one a Fool, the other a Brute.</p>
+            <p>14. Ill affections do as often divide us as ill
+Opinions, and diſtempered Spirits occaſion
+diſtracted times, wars come from our Luſts,
+<hi>Jam.</hi> 4. 1.</p>
+            <p>15. Too many men make Idols of their
+own conceptions, and love an Opinion, not
+becauſe 'tis true, but becauſe 'tis theirs.</p>
+            <p>16. A man ſhould as carefully avoid an er<g ref="char:EOLhyphen"/>ror
+in Judgement, as a vice in Converſation;
+for God hateth filthineſs of the Spirit, as well
+as filthineſs of the Fleſh.</p>
+            <p>17. Eaſie credulity and ſtubborn prejudice,
+are the two great fomenters of Religious dif<g ref="char:EOLhyphen"/>ferences.</p>
+            <p>18. The Adverſaries of Chriſtianity, have
+been always thoſe that have leaſt inquired in<g ref="char:EOLhyphen"/>to
+it's nature.</p>
+            <p>19. Do not appropriate Chriſt to any one
+party of Profeſſors; The Apoſtle reproves
+<hi>thoſe</hi> that ſaid, <hi>I am of Chriſt,</hi> as well as <hi>thoſe</hi> that
+ſaid, <hi>I am of Paul, 1 Cor.</hi> 1. 13. Thoſe that ſpake
+as if Chriſt were onely <hi>Theirs,</hi> were accounted
+a Faction too.</p>
+            <p>20. We prize a Jewel in a Toads head, how
+much more ſhould we love grace in brethren,
+whoſe blemiſh is onely ſome petty diſſent.</p>
+            <p>21. 'Tis fatal to Religion, when once we
+cry up <hi>Names,</hi> and thoſe names beget <hi>Parties,</hi>
+for then men look onely to accomodate their
+own faction, though it be to the hazard of re<g ref="char:EOLhyphen"/>ligion,
+and publique peace.</p>
+            <p>22. You make the beſt purchaſes when
+you relieve thoſe that are in neceſſity, and by
+the act gain more than thoſe on whom your
+Bounties are beſtow'd.</p>
+            <p>23. Rebukes in private Dealings of Friend<g ref="char:EOLhyphen"/>ſhip
+ſhould come from us as afflicting as if the
+fault were our own, and wear rather Mourn<g ref="char:EOLhyphen"/>ing
+than Scorn.</p>
+            <p>24. He onely Reproves another with faith<g ref="char:EOLhyphen"/>fulneſs,
+that can ſuffer himſelf to be reproved
+with Thankfulneſs.</p>
+            <p>25. Self-intereſt twines it ſelf to far into all
+our actions, that it infects our very Charity;
+Men will be bountiful ſometimes, becauſe
+they are ambitious, and purchaſe the ſhaddow
+of one vertue with the real loſs of another;
+If at all we fling our bread upon the Waters,
+we chuſe not Currents that run all one way
+from us, but tideing Waters, we do good only
+to ſuch as many return it.</p>
+            <p>26. He muſt be a Fool who ſells himſelf
+to buy a Garment, how then dare you ex<g ref="char:EOLhyphen"/>poſe
+your ſoul to gratifie your body?</p>
+            <p>27. Never divulge ſlaunders againſt any,
+nor incourage them, but entertain all leſſon<g ref="char:EOLhyphen"/>ing
+diſparagings of others with tingling
+Ears, ſlow belief, bluſhes for the defamer as
+well as the defamed, a dejected countenance,
+an excuſing tongue, or a diſtaſtful ſilence.</p>
+            <p>28. To ſmite with the hand is beneath a
+man, <hi>to ſmite with the Tongue</hi> beneath a Chri<g ref="char:EOLhyphen"/>ſtian,
+and yet how often are Chriſtians guil<g ref="char:EOLhyphen"/>ty
+of both <hi>biting and devouring one another,</hi> as
+the Apoſtle moſt aptly phraſes, <hi>Gal.</hi> 5. 15.</p>
+            <p>29. Patient ſufferings carry more Majeſty
+with them than carnal replies and defences.</p>
+            <p>30. Of all men it worſt becomes the Em<g ref="char:EOLhyphen"/>baſſadors
+of the Prince of Peace to be men of
+Violence.</p>
+            <p>31. Admonitions are not to be counted ac<g ref="char:EOLhyphen"/>cuſations.</p>
+            <p>32. Some men love to live in the fire, and
+be always handling the red hot queſtions of
+the Age with paſſion and Acrimony: but a<g ref="char:EOLhyphen"/>las!
+this doth no good.</p>
+            <p>33. 'Tis very unwarrantable to gain Men
+to a party before they be gained to God.</p>
+            <p>34. Arrows of bitter words are no Wea<g ref="char:EOLhyphen"/>pons
+of our ſpiritual warfare.</p>
+            <p>35. The ſmall Rain does moſt good on
+the tender Graſs, he that ſpeaks to diſſenters,
+ſhould do it with all meekneſs and kindneſs,
+let your arguments be as ſtrong as you can,
+but be ſure let your words be ſoft.</p>
+            <p>36. There may be divers colours, but there
+ſhould be no Rent in the Churches Coat.</p>
+            <p>37. 'Tis good to preſerve truth, but ſmall di<g ref="char:EOLhyphen"/>ſtempers
+need not violent cures, he's a <hi>mad man</hi>
+that fires his houſe to deſtroy the Mice in it.</p>
+            <p>38. <hi>Paul</hi> is every where moſt zealous a<g ref="char:EOLhyphen"/>gainſt
+erors, yet none more earneſt than he to
+bring Circumſion and Uncircumſion, to a
+profeſſion of Brotherhood.</p>
+            <p>39. Strings that are in Tune muſt not be
+ſtirred, others muſt be ſet up to them; the diſ<g ref="char:EOLhyphen"/>obedient
+muſt be brought up to the Wiſdom
+of the Juſt, not that down to them, for where
+<hi>the Language is pure the Souldier is one,</hi> Zep. 3. 9.</p>
+            <p>40. The great occaſion of the decay of Pi<g ref="char:EOLhyphen"/>ety
+amongſt Profeſſors, is becauſe they ſpend
+all the heat and firſt born of their ſtrength
+and zeal in contentions about opinions with<g ref="char:EOLhyphen"/>out
+regard to practiſe.</p>
+            <p>41. Falſe Doctrines and bad lives, like Ice
+and water do mutually beget each other.</p>
+            <p>42. Thoſe that kindle Coals, and ſeek to
+increaſe the flames of diſcontent, and Animo<g ref="char:EOLhyphen"/>ſites
+amongſt the people of God, are Factors
+for the Devil, who is pictured with a Cloven
+foot, onely to ſignifie that his work is to cauſe
+and continue diviſions in the world.</p>
+            <p>43. God rules the world by the luſts of his
+enemies, and the Prayers of his Saints, diſap<g ref="char:EOLhyphen"/>pointing
+one, and ſtirring up and anſwering
+the other, accompliſhes the deſigns of provi<g ref="char:EOLhyphen"/>dence.</p>
+            <p>44. Corrupt company is more Infectiou<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+than corrupt Air.</p>
+            <p>45. Conquer Will, and you Conquer Hell;
+The principal Point in difference between
+God and Sinners, is whoſe Will ſhall ſtand,
+his or theirs.</p>
+            <p>46. There is nothing in the world mo<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> dangerous
+to the publique Welfare either o<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+State or Churches, than private ſelf-ſeeking.</p>
+            <p>47. The more low and uſeleſs we are
+our own Eyes, the ſitter we are to be imploy<g ref="char:EOLhyphen"/>ed
+by God, who poureth the Oyl of his Grace
+into broken Veſſels.</p>
+            <p>48. The Keys of Eternal life are ſelf-deny<g ref="char:EOLhyphen"/>ing
+Graces, Faith and Repentance, by the o<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+we are taught to go out of our ſelves, by th<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+others to abhor our ſelves.</p>
+            <p>49. Reſtitution as it is a moſt neceſſary,
+it is one of the moſt hardeſt parts of ſelf-d<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nyal,
+when a covetous heart muſt be forc<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+to vomit up all it's ſweet Morſels again; U<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+juſt gain is like a barbed Arrow, it kills if
+ſtay within the body, and it tears and pulls t<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+Fleſh away with it, if it be drawn out.</p>
+            <p>50. I never much liked Projectors in any
+kind, they uſually delude others, and undoe
+themſelves: but above all, a Projector in
+Learning is one of the moſt unhappy, and o<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+all Learning none more dangerous than
+Projector in Theology; the likelieſt peice
+Timber, out of which to ſhape firſt a <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tick,
+and after that an Heretick, and at
+Athieſt.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>A. P.</hi> and <hi>T. H.</hi> for <hi>P. Brooksby,</hi> at the Golden Ball, in Weſt-Smith field, near the Hoſpital-Gate. 1677.</p>
+            <p>With Allowanc<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
